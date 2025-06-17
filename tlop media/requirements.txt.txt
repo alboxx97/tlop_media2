@@ -1,0 +1,5 @@
+# Create or overwrite requirements.txt
+echo Flask==2.3.3        > requirements.txt
+echo python-telegram-bot==20.8 >> requirements.txt
+echo gunicorn==21.2.0    >> requirements.txt
+echo requests==2.31.0    >> requirements.txt
